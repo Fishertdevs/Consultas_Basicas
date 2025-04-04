@@ -18,8 +18,8 @@ Este proyecto es una aplicación de consola en Python que permite realizar opera
 
 1. Clona este repositorio en tu máquina local:
    ```bash
-   git clone https://github.com/tu_usuario/consultas_basicas.git
-
+[
+](https://github.com/Fishertdevs/Consultas_Basicas.git)
 ## Preview 
 ![alt text](image-1.png)
 ---
